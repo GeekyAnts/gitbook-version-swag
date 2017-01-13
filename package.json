@@ -1,0 +1,27 @@
+{
+  "name": "gitbook-version-swag",
+  "version": "1.0.0",
+  "description": "CLI to update your version config in book.json for your GitBook with all the branches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gitbook-version-swag": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekyAnts/gitbook-version-swag.git"
+  },
+  "keywords": [
+    "gitbook",
+    "version",
+    "automate"
+  ],
+  "author": "Himanshu, Sanket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekyAnts/gitbook-version-swag/issues"
+  },
+  "homepage": "https://github.com/GeekyAnts/gitbook-version-swag#readme"
+}
