@@ -1,6 +1,6 @@
 {
   "name": "gitbook-version-swag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI to update your version config in book.json for your GitBook with all the branches",
   "main": "index.js",
   "bin": {
