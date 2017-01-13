@@ -2,7 +2,7 @@
 
 Install this CLI globally
 ```sh
-npm i -g gitbook-vserion-swag
+npm i -g gitbook-version-swag
 ```
 
 ## Usage
